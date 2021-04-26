@@ -12,7 +12,7 @@ Estagiário desenvolvedor na KFE SOFTWARE.
 ✨ Aqui você encontra códigos de projetos pessoais/eventos/cursos
 
 
-utilizo meu conhecimento para resolver problemas e agregar valor ao projeto.
+✨ utilizo meu conhecimento para resolver problemas e agregar valor ao projeto.
 
 
 
