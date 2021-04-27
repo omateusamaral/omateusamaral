@@ -1,6 +1,6 @@
 # Mateus Amaral 
 
-Estagiário desenvolvedor na KFE SOFTWARE.
+Desenvolvedor FullStack | NodeJS | ReactJS | React-Native | PHP
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Meu%20Linkedin-blue)](https://www.linkedin.com/in/mateus-passos-amaral/) 
