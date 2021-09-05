@@ -17,10 +17,9 @@
   <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </div><br/>
 
-Desenvolvedor JR | NodeJS | ReactJS | React-Native | PHP
+Junior Developer | NodeJS | ReactJS | React-Native | PHP
 
-✨ Olá seja bem vindo(a) ao meu github, aqui você encontrará códigos nessas principais tecnologias: NodeJS, ReactJS e React-Native
+✨Hi welcome to my github, here you going to find codes in these main tecnologys: NodeJS, ReactJS and React-Native
 
-✨ Aqui você encontra códigos de projetos pessoais/eventos/cursos
-
-✨ utilizo meu conhecimento para resolver problemas e agregar valor ao projeto.
+✨ Here you going to find codes about personal projects / events / courses 
+✨ I use my knowledge to solve problems and add value to the project
